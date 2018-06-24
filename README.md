@@ -16,7 +16,7 @@
    Get every things what you want in this Testpage!<br>
    I hope it would very useful to you<br></font>
 
- <h4>↓Visit Here↓</h4></p style="margin-top:10px"><p>
+ <p><h4>↓Visit Here↓</h4></p style="margin-top:10px"><p>
  <a href="https://www.lifehack.org/articles/lifestyle/hobbies-are-good-for-you-how-find-one-that-fits-your-personality.html">
  <h2>How to Find Hobbies</h2></a></p style="margin-top:1px">
 
@@ -30,6 +30,4 @@
       <img src="blog.jpg" width="100%"></p><p>
       <h6>IF you have any qustion or complaint, please contact us at 1600-4859 or Testpage@gmail.com</h6>
 
-  </div>
-  </body>
- </html>
+  
